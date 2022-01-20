@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhi97shek
 - 👀 I’m interested in Full Stack Engineer
 - 🌱 I’m currently learning React-Native.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me abhi.kumar736@gmail.com
 
 <!---
